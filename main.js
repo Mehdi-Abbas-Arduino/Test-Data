@@ -1,3 +1,5 @@
 var a = 5;
 var b = 6;
-wdhwfedfufbuferfrbfurb;
+var c = a + b;
+console.log(c)
+alert("Warning error 404")
